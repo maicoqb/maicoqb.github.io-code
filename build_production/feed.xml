@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 
-    <title>Piece</title>
-    <link href="//maicoqb.github.io/jigsaw-piece/feed.xml" rel="self"/>
-    <link href="//maicoqb.github.io/jigsaw-piece/"/>
-    <updated>2017-04-18T14:54:10+00:00</updated>
+    <title>maicoqb</title>
+    <link href="//maicoqb.github.io/feed.xml" rel="self"/>
+    <link href="//maicoqb.github.io/"/>
+    <updated>2017-04-19T19:20:35+00:00</updated>
     <id>//maicoqb.github.io</id>
     <author>
         <name>Maico Borges</name>
@@ -11,17 +11,18 @@
     </author>
 
             <entry>
-            <title>What&#039;s Jigsaw?</title>
-            <link href="//maicoqb.github.io/jigsaw-piece/blog/2017/04/whats-jigsaw"/>
-            <updated>2017-04-17T00:00:00+00:00</updated>
-            <id>//maicoqb.github.io_/jigsaw-piece_whats-jigsaw</id>
-            <content type="html">&lt;p&gt;&lt;a href=&quot;http://jigsaw.tightenco.co&quot;&gt;Jigsaw&lt;/a&gt; is a new approach on static site building,
-making static content easy whith Laravel&#039;s Blade templating.&lt;/p&gt;
+            <title>Hello World!</title>
+            <link href="//maicoqb.github.io/blog/2017/04/hello-world"/>
+            <updated>2017-04-19T00:00:00+00:00</updated>
+            <id>//maicoqb.github.io__hello-world</id>
+            <content type="html">&lt;h3&gt;Olá Mundo!&lt;/h3&gt;
+&lt;p&gt;Seja bem vindo, e não repara a bagunça. :smile:&lt;/p&gt;
+&lt;p&gt;Espere que goste do que vai encontrar aqui.&lt;/p&gt;
+&lt;p&gt;Esse é o primeiro post que faço no meu GitHub Pages.&lt;/p&gt;
+&lt;hr /&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Jigsaw is a framework for rapidly building static sites using the
-same modern tooling that powers your web applications.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Find out more by &lt;a href=&quot;https://github.com/tightenco/jigsaw&quot;&gt;visiting the project on GitHub&lt;/a&gt;.&lt;/p&gt;</content>
+&lt;p&gt;Vou fazer um post falando do que fiz pra chegar até aqui e quando estiver pronto eu coloco o link aqui.&lt;/p&gt;
+&lt;/blockquote&gt;</content>
         </entry>
     
 </feed>

@@ -20,13 +20,13 @@
             </a>
         @endforeach
 
-        <a class="sidebar-nav-item" href="{{ $page->project->github }}/archive/v{{ $page->project->version }}.zip">Download</a>
-        <a class="sidebar-nav-item" href="{{ $page->project->github }}">GitHub</a>
-        <span class="sidebar-nav-item">Currently v{{ $page->project->version }}</span>
+        <a class="sidebar-nav-item" href="{{ $page->author->github }}">GitHub</a>
+
+        <a class="sidebar-nav-item" href="mailto:{{ $page->author->email }}">E-Mail</a>
     </nav>
 
     <div class="sidebar-item">
-        <p> &copy; {{ date('Y') }}. All rights reserved. </p>
+        <p> &copy; {{ date('Y') }}. {{ $page->author->name }}. </p>
         <p> Powered by <a href='http://maicoqb.github.io/jigsaw-piece/' target='_blank'>Jigsaw Piece</a> </p>
     </div>
 </div>

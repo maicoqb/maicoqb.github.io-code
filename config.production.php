@@ -8,6 +8,6 @@ return array_replace_recursive(
 
         'site' => [
             'url' => '//maicoqb.github.io',
-            'baseurl' => '/jigsaw-piece',
+            'baseurl' => '',
         ]
     ]);
