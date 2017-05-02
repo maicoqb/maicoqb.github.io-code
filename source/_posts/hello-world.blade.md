@@ -8,7 +8,7 @@ tags: []
 
 ### Olá Mundo!
 
-Seja bem vindo, e não repara a bagunça. :smile:
+Seja bem vindo, e não repara a bagunça.
 
 Espere que goste do que vai encontrar aqui.
 

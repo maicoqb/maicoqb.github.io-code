@@ -6,6 +6,6 @@
         }
     ],
     "require": {
-        "tightenco/jigsaw": "dev-v1.1-BETA"
+        "tightenco/jigsaw": "v1.1-BETA"
     }
 }

@@ -9,7 +9,7 @@
 
     @if(($related_posts = $page->get_related($posts)) && $related_posts->count())
         <div class="related">
-            <h2>Related Posts</h2>
+            <h2>Posts Relacionados</h2>
 
             <ul class="related-posts">
                 @foreach ($related_posts as $related_post)
