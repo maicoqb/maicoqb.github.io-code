@@ -3,7 +3,7 @@
 return array_merge([
     'production' => false,
 
-    'perPage' => 1,
+    'perPage' => 3,
 
     'site' => [
         'url' => '',
