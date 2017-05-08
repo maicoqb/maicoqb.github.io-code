@@ -7,5 +7,5 @@
 
     <span class="post-date">{{$post->date_formated()}}</span>
 
-    {!! $post->getContent() !!}
+    {!! $post->first_hundread_words() !!}
 </div>
