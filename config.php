@@ -6,7 +6,7 @@ return array_merge([
     'perPage' => 3,
 
     'site' => [
-        'url' => '',
+        'url' => '//localhost',
         'baseurl' => '',
         'title' => "maicoqb",
         'tagline' => 'Desenvolvimento Web, PHP, TI e mais',

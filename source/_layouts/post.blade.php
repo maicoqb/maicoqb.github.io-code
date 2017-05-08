@@ -25,4 +25,12 @@
             </ul>
         </div>
     @endif
+
+
+    @include('_partials.disqus_comments', [
+        'page_title' => $page->title,
+        'page_url' => 'https://maicoqb.github.io' . $page->site->baseurl . $page->getUrl(),
+        'page_identifier' => $page->getUrl()
+    ])
+
 @endsection
