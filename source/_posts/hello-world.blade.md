@@ -18,4 +18,5 @@ Esse é o primeiro post que faço no meu GitHub Pages.
 
 > ~~Vou fazer um post falando do que fiz pra chegar até aqui e quando estiver pronto eu coloco o link aqui.~~
 
-> Fiz um post falando um pouco do que eu fiz pra criar esse blog. Dá uma olhada [aqui]({{ $page->site->baseurl }}/blog/2017/04/criando-o-piece/)
+> Fiz um post falando um pouco do que eu fiz pra criar esse blog.
+Dá uma olhada [aqui](/blog/2017/04/criando-o-piece/)

@@ -6,7 +6,7 @@ section: content
 tags: [piece, php, jigsaw]
 ---
 
-No meu [primeiro post]({{ $page->site->baseurl }}/blog/2017/04/hello-world/) me comprometi em explicar o que fiz pra criar esse blog.
+No meu [primeiro post](/blog/2017/04/hello-world/) me comprometi em explicar o que fiz pra criar esse blog.
 
 ### Do Início
 
