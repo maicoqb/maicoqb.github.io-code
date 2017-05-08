@@ -7,7 +7,7 @@ return array_replace_recursive(
         'production' => true,
 
         'site' => [
-            'url' => '//maicoqb.github.io',
+            'url' => 'https://maicoqb.github.io',
             'baseurl' => '',
         ]
     ]);
